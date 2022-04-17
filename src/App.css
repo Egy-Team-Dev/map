@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex: 1;
+  height: 100vh;
+}
+.leaflet-div-icon {
+  border: none;
+}
+.icon-Container {
+  position: relative;
+}
+.label {
+  color: rgb(216, 216, 216);
+  font-weight: 700;
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 6px);
+}
